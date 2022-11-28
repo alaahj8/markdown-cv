@@ -25,6 +25,6 @@ worked at internet service provider(isp):
 ---
 # skills
 ---
-fibers optic,network,wireless equipments,software and hardware 
+fibers optic,network,wireless equipments,software and hardware ...
 ---
 
